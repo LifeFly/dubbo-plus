@@ -85,13 +85,13 @@
         <module>cache</module>
         <module>cricuitbreaker</module>
         <module>dubbo-plus-all</module>
-        <module>netty4</module>
+        <module>dubbo-netty4</module>
         <module>dubbo-generator</module>
-        <module>restful</module>
+        <module>dubbo-restful</module>
         <module>cat-monitor</module>
         <module>tracing-api</module>
         <module>tracing-client</module>
-        <module>log4j2</module>
+        <module>dubbo-log4j2</module>
     </modules>
     <build>
         <plugins>
